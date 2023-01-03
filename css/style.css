@@ -17,6 +17,13 @@ body {
     padding: 30px;
 }
 
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
 ul {
     text-align: left;
     max-width: 550px;
